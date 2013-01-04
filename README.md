@@ -1,9 +1,6 @@
-# molokai vim theme
+# molokai colors for vim
 
-originally created by [Tomas Restrepo][1]. I just put it here to be able to
-easily add it to my vim config as a submodule.
-
-Forked from mrtazz on Github for personalized changes.
+originally created by [Tomas Restrepo][1]. Forked from mrtazz on Github for personalized changes.
 
 
 
